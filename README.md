@@ -7,3 +7,10 @@ This repository contains a Jupyter Notebook for calculating Body Mass Index (BMI
 - Input your weight and height
 - Calculate your BMI instantly
 - Categorize your BMI into standard health categories
+## Installation
+
+To run this notebook, you need to have Jupyter installed. You can install it using pip:
+
+```bash
+pip install jupyter
+
