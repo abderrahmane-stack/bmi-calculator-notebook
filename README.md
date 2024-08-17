@@ -13,4 +13,19 @@ To run this notebook, you need to have Jupyter installed. You can install it usi
 
 ```bash
 pip install jupyter
+```
 
+## Usage
+Clone this repository to your local machine:
+```bash
+git clone https://github.com/your-username/bmi-calculator-notebook.git
+```
+Navigate to the project directory:
+```bash
+cd bmi-calculator-notebook
+```
+Launch the Jupyter Notebook:
+```bash
+jupyter notebook bmi_calculator.ipynb
+```
+Follow the instructions within the notebook to input your weight and height, and calculate your BMI.
